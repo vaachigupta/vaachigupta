@@ -53,11 +53,11 @@ Final-year B.Tech CSE student specializing in **Data Science & Analytics** and *
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vaachigupta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaachigupta&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="./profile/top-langs.svg" width="48%"/>
+<img src="https://leetcard.jacoblin.cool/pwU6MI6DOP?theme=dark&font=baloo2&ext=heatmap" width="48%"/>
 </div>
 
 <div align="center">
