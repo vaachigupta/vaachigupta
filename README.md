@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="PASTE_YOUR_OWN_BANNER_IMAGE_URL_HERE" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1A47,100:B34FAE&height=200&section=header&text=Hi%20there,%20I'm%20Vaachi%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<!-- ^ swap this for an art/photo banner like your friend's — see the note at the bottom for how -->
-
-# Hi, I'm Vaachi Gupta
-
-Final-year B.Tech CSE student specializing in **Data Science & Analytics** and **ML Engineering**, also comfortable across the full stack. I've shipped BI dashboards used by leadership at a listed co-working firm and built 3+ end-to-end ML products spanning classification, forecasting, and OCR. Currently job hunting and looking for a Data Science / ML / SDE role.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytics;Applied+Machine+Learning;Full-Stack+Development;Final-Year+CSE+Student" alt="Typing SVG" />
 
 <a href="https://www.linkedin.com/in/vaachi-gupta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://leetcode.com/u/pwU6MI6DOP/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
@@ -14,50 +10,56 @@ Final-year B.Tech CSE student specializing in **Data Science & Analytics** and *
 
 </div>
 
----
+<br/>
 
-## 💻 Tech Stack
+Final-year CSE student who likes turning messy data into something decisive — ML pipelines, BI dashboards, or a full-stack product when the problem calls for one. I learn by building: pick a hard problem, figure out what it needs, ship it.
+
+<br/>
+
+## Tech Stack
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,js,java,r,c" />
+
+**ML & Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,mysql,mongodb" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-0066CC?style=flat-square"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+
+**Web & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,git" />
+
+<br/>
+
+## Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| **Financial Market Risk Analysis** | Entropy-augmented volatility model on 20 years of price data across 224 NSE 500 stocks | Python, GARCH, NumPy/SciPy |
+| **GenPlus** — Genetic Disorder Prediction | 77% accuracy on a 22,000-record clinical dataset; FastAPI backend + Next.js frontend for real-time predictions | Python, XGBoost, FastAPI, Next.js |
+| **Medisage** — AI Prescription Decoder | OCR + NLP pipeline reading handwritten prescriptions into structured medicine data | Python, FastAPI, OpenCV, EasyOCR |
+| **QuizCraft** | Cross-platform React Native flashcard app with AI-generated Q&A via Groq's LLaMA-3 | React Native, Groq API |
+| **Wandernest** | Responsive travel journaling app with photo upload & local persistence | HTML5, CSS3, JavaScript |
+
+<br/>
+
+## LeetCode
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+<img src="https://leetcard.jacoblin.cool/pwU6MI6DOP?theme=dark&font=baloo2&ext=heatmap" width="60%"/>
 </div>
 
----
+<br/>
 
-## 📌 Featured Projects
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| **GenPlus — Genetic Disorder Prediction** | 77% accuracy on a 22,000-record clinical dataset; FastAPI backend + Next.js frontend for real-time predictions | Python, XGBoost, Scikit-learn, FastAPI, Next.js |
-| **Financial Market Risk Analysis** | Entropy-augmented volatility model on 20 years of price data across 224 NSE 500 stocks | Python, GARCH, Random Matrix Theory, NumPy/SciPy |
-| **Medisage — AI Prescription Decoder** | OCR + NLP pipeline that reads handwritten prescriptions and returns structured medicine data | Python, FastAPI, OpenCV, EasyOCR |
-| **QuizCraft** | Cross-platform React Native flashcard app with AI-generated Q&A via Groq's LLaMA-3 | React Native, Context API, Groq API |
-| **Wandernest** | Fully responsive, frontend-only travel journaling web app with photo upload & local persistence | HTML5, CSS3, JavaScript |
-
----
-
-## 📊 Stats
+## GitHub
 
 <div align="center">
-<img src="./profile/top-langs.svg" width="48%"/>
-<img src="https://leetcard.jacoblin.cool/pwU6MI6DOP?theme=dark&font=baloo2&ext=heatmap" width="48%"/>
+<img src="./profile/top-langs.svg" width="60%"/>
 </div>
 
 <div align="center">
