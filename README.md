@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1A47,100:B34FAE&height=200&section=header&text=Hi%20there,%20I'm%20Vaachi%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytics;Applied+Machine+Learning;Full-Stack+Development;Final-Year+CSE+Student" alt="Typing SVG" />
-
 <a href="https://www.linkedin.com/in/vaachi-gupta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://leetcode.com/u/pwU6MI6DOP/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="mailto:vaachigupta21@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -25,6 +23,7 @@ Final-year CSE student who likes turning messy data into something decisive — 
 **ML & Data**
 <br/>
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv,mysql,mongodb" />
+<br/><br/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/XGBoost-0066CC?style=flat-square"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
@@ -40,8 +39,8 @@ Final-year CSE student who likes turning messy data into something decisive — 
 
 | Project | Description | Tech |
 |---|---|---|
-| **Financial Market Risk Analysis** | Entropy-augmented volatility model on 20 years of price data across 224 NSE 500 stocks | Python, GARCH, NumPy/SciPy |
 | **GenPlus** — Genetic Disorder Prediction | 77% accuracy on a 22,000-record clinical dataset; FastAPI backend + Next.js frontend for real-time predictions | Python, XGBoost, FastAPI, Next.js |
+| **Financial Market Risk Analysis** | Entropy-augmented volatility model on 20 years of price data across 224 NSE 500 stocks | Python, GARCH, NumPy/SciPy |
 | **Medisage** — AI Prescription Decoder | OCR + NLP pipeline reading handwritten prescriptions into structured medicine data | Python, FastAPI, OpenCV, EasyOCR |
 | **QuizCraft** | Cross-platform React Native flashcard app with AI-generated Q&A via Groq's LLaMA-3 | React Native, Groq API |
 | **Wandernest** | Responsive travel journaling app with photo upload & local persistence | HTML5, CSS3, JavaScript |
