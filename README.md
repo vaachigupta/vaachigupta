@@ -1,20 +1,22 @@
 <div align="center">
 
-<img src="laptop.gif" width="100%" height="500px">
+<img src="laptop.gif" width="500"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1A47,100:B34FAE&height=200&section=header&text=Hi%20there,%20I'm%20Vaachi%20Gupta%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<br/>
 
-<a href="https://www.linkedin.com/in/vaachi-gupta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/u/pwU6MI6DOP/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="mailto:vaachigupta21@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-</div>
+<h1>Hi, I'm Vaachi Gupta </h1>
 
 <br/>
 
 I’m a Computer Science Engineering student interested in data, machine learning, and building practical software. I enjoy turning complex problems into useful solutions, whether that means working with data, developing ML systems, or building products from the ground up.
 
 <br/>
+
+<a href="https://www.linkedin.com/in/vaachi-gupta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/pwU6MI6DOP/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="mailto:vaachigupta21@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
 
 ## Tech Stack
 
