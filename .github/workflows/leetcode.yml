@@ -19,8 +19,25 @@ jobs:
       - name: Download LeetCode card
         run: |
           mkdir -p profile
-          curl -L "https://leetcard.jacoblin.cool/vaachi21?theme=dark&font=baloo2&ext=heatmap" \
-            -o profile/leetcode.svg
+
+          URL="https://leetcard.jacoblin.cool/vaachi21?theme=dark&font=baloo2&ext=heatmap"
+
+          for i in 1 2 3 4 5; do
+            echo "Attempt $i..."
+
+            STATUS=$(curl -L -s -o profile/leetcode.svg -w "%{http_code}" "$URL")
+
+            if [ "$STATUS" = "200" ]; then
+              echo "LeetCard downloaded successfully."
+              exit 0
+            fi
+
+            echo "LeetCard returned HTTP $STATUS. Retrying..."
+            sleep 10
+          done
+
+          echo "Failed to download a valid LeetCard after 5 attempts."
+          exit 1
 
       - name: Commit updated card
         run: |
