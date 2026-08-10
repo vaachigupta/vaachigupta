@@ -1,0 +1,37 @@
+name: Update LeetCode Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-leetcode:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download LeetCode card
+        run: |
+          mkdir -p profile
+          curl -L "https://leetcard.jacoblin.cool/vaachi21?theme=dark&font=baloo2&ext=heatmap" \
+            -o profile/leetcode.svg
+
+      - name: Commit updated card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/leetcode.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update LeetCode stats"
+            git push
+          fi
