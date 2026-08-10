@@ -63,7 +63,7 @@ I’m a Computer Science Engineering student interested in data, machine learnin
 ## LeetCode
 
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/vaachi21?theme=dark&font=baloo2&ext=heatmap&cache=0" width="60%"/>
+<img src="./profile/leetcode.svg" width="60%"/>
 </div>
 
 <br/>
