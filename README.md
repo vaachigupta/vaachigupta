@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="laptop.gif" width="400"/>
+<img src="laptop.gif" width="100%" height="500px">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1A47,100:B34FAE&height=200&section=header&text=Hi%20there,%20I'm%20Vaachi%20Gupta%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
